@@ -1,7 +1,7 @@
 # UML
 ## UniversityManagementSystem
 
-! [UML] (https://r.resimlink.com/jAlNZDhFTv.png)
+![UML](https://r.resimlink.com/jAlNZDhFTv.png)
 
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
